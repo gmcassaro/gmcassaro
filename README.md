@@ -31,6 +31,8 @@
 
 ## Tecnologias e linguagens 💻
 
+
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
