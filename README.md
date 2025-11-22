@@ -11,18 +11,6 @@
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ---
-<br>
-
-<!-- Pacman Contribution Graph (Dark Mode) -->
-![Pacman Contribution Graph Dark](https://raw.githubusercontent.com/gmcassaro-dev/gmcassaro-dev/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
-
-<!-- Pacman Contribution Graph (Light Mode) -->
-![Pacman Contribution Graph Light](https://raw.githubusercontent.com/gmcassaro-dev/gmcassaro-dev/output/pacman-contribution-graph.svg#gh-light-mode-only)
-
-
-###
----
-
 
 
 ## ⭐ GitHub Stats
