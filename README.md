@@ -6,7 +6,8 @@
 
 ## Sobre mim
 
-- 🎓 Graduando em Engenharia de Software na Estácio
+- 🎓 Graduado em Engenharia de Software.
+- 🎓 Pós-Graduando em Desenvolvimento Web.
 - 📚 Estudando JavaScript, Node.js, React, e desenvolvimento de jogos
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
