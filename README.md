@@ -1,7 +1,7 @@
 # 👾 Hello there, i'm Gabriel!
 <p align="left">
-  Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+  Engenheiro de Software formado, desenvolvedor em evolução, comprometido a criar soluções modernas, funcionais e com propósito. <br>
+ Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Software.
 </p>
 
 ## Sobre mim
