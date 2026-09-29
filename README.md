@@ -38,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-    Atualmente curso o <strong>7º semestre de Engenharia de Software</strong> na Estácio. <br><br>
+    Atualmente curso o <strong>Pós Graduação em Desenvolvimento Web</strong> no IFSul de Minas. <br><br>
   Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end. Também venho explorando tecnologias como <strong>Java</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
